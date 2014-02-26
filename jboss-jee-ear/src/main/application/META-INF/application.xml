@@ -8,6 +8,12 @@
     </web>
   </module>
   <module>
+    <web>
+      <web-uri>jboss-jee-web-${project.version}.war</web-uri>
+      <context-root>/jboss-jee-web</context-root>
+    </web>
+  </module>
+  <module>
     <ejb>jboss-jee-ejb-${project.version}.jar</ejb>
   </module>
   <library-directory>lib</library-directory>

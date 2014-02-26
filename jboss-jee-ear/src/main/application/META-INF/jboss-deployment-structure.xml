@@ -7,5 +7,6 @@
 		</resources>
 	</deployment>
 	<sub-deployment name="jboss-jee-ejb-${project.version}.jar" />
+	<sub-deployment name="jboss-jee-web-${project.version}.war" />
 	<sub-deployment name="jboss-jee-ws-${project.version}.war" />
 </jboss-deployment-structure> 

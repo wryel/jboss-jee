@@ -19,6 +19,7 @@
 	<modules>
 		<module>../jboss-jee-core</module>
 		<module>../jboss-jee-ejb</module>
+		<module>../jboss-jee-web</module>
 		<module>../jboss-jee-ws</module>
 		<module>../jboss-jee-ear</module>
 	</modules>
