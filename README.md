@@ -8,6 +8,4 @@ Projeto maven básico com módulos EJB, WS e WEB.
 - JAX-RS 2
 - JEE 6
 
-Testado no JBoss 7.1.1 
-
-- Lookup de EJB em webservice JAX-RS
+Testado no JBoss 7.1.1
