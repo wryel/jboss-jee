@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jboss-deployment-structure>
+	<ear-subdeployments-isolated>false</ear-subdeployments-isolated>
+	<deployment>
+		<resources>
+			<resource-root path="jboss-jee-core-${project.version}.jar" />
+		</resources>
+	</deployment>
+	<sub-deployment name="jboss-jee-ejb-${project.version}.jar" />
+	<sub-deployment name="jboss-jee-ws-${project.version}.war" />
+</jboss-deployment-structure> 
